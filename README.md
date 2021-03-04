@@ -8,3 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - React
  - TypeScript
  - Next.js
+ 
+#### 🎉 Deploy
+
+ - [Vercel](https://moveit-drab-rho.vercel.app/)
